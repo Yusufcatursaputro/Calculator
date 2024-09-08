@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="number1">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#6A6A6A</item>
+    </style>
+    <style name="number2">
+        <item name="android:textSize">50sp</item>
+        <item name="android:textColor">#6A6A6A</item>
+        <item name="itemTextAppearanceActiveBoldEnabled"></item>
+    </style>
+</resources>
